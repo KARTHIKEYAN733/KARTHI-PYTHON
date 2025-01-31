@@ -1,3 +1,3 @@
-a=float(input("enter the value of a"))   
-a=float(input("enter the value of b")) 
-print(a*b)
+a=int(input("Enter the number a:"))
+b=int(input("Enter the number b:"))
+print (a+b)
